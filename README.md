@@ -3,7 +3,9 @@
 Object oriented programming project using Java to visualize real time earthquake data using UnfoldingMap Lib and Porcessing GUI
 Interactive earthquake map with real time update
 
-Main Features :
+ScreenShoot:
+![Demo](https://github.com/men9xuan/UCSDUnfoldingMaps/blob/master/demo.jpg)
+Main Features:
 1. Keyboard shortcuts
   - Change map providers
   - Show only the recent earthquakes or show it all
